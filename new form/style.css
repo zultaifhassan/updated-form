@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-fluid{
+    background-color: rgba(0, 0, 255, 0.103);
+    height: 190vh;
+}
+.logo-side img{
+    height: 100px;
+    width: 100px;
+}
+
+
+.img-name{
+    padding-top: 80px;
+}
